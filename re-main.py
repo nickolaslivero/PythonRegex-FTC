@@ -3,6 +3,7 @@
 
 import re
 
+
 try:
     entrada = input().split()
 except EOFError:
