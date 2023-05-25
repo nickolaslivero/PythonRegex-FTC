@@ -3,12 +3,11 @@
 
 import re
 
-
+#
 try:
     entrada = input().split()
 except EOFError:
     entrada = "false".split()
-
 
 
 def verificar_nome():
